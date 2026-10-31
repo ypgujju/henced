@@ -1,4 +1,4 @@
-# henced
+# Henced
 # AI-Powered Theory, Derivation & Proof Expert
 
 An intelligent educational platform designed to explain, derive, and prove scientific theories, mathematical formulas, and academic concepts with accuracy and clarity.
